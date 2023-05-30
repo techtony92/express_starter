@@ -1,5 +1,6 @@
 /dist
 /node_modules
+/src/logs
 .pnp.*
 .yarn/*
 !.yarn/patches
@@ -7,3 +8,4 @@
 !.yarn/releases
 !.yarn/sdks
 !.yarn/versions
+.env
